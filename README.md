@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/vvadher0113?s=200" width="150" height="150" style="border-radius: 50%;" alt="[Vijay Vadher]" />
+  <img src="https://avatars.githubusercontent.com/u/158799475?v=4&size=64?s=200" width="150" height="150" style="border-radius: 50%;" alt="[Vijay Vadher]" />
   <h1>Hi there, I'm Vijay Vadher!</h1>
   <p><strong>Azure Cloud Engineer & Solutions Architect | DevOps Specialist | Certified in Azure & Security</strong></p>
 </div>
