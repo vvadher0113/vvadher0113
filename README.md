@@ -18,11 +18,11 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
 **Certifications:**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900" />
-  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-104" />
-  <img src="https://img.shields.io/badge/AZ--305-Designing_Azure_Infrastructure_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-305" />
-  <img src="https://img.shields.io/badge/AZ--700-Designing_and_Implementing_Microsoft_Azure_Networking_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-700" />
-  <img src="https://img.shields.io/badge/AZ--400-Designing_and_Implementing_Microsoft_DevOps_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-400" />
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900" />&nbsp;
+  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-104" />&nbsp;
+  <img src="https://img.shields.io/badge/AZ--305-Designing_Azure_Infrastructure_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-305" />&nbsp;
+  <img src="https://img.shields.io/badge/AZ--700-Designing_and_Implementing_Microsoft_Azure_Networking_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-700" />&nbsp;
+  <img src="https://img.shields.io/badge/AZ--400-Designing_and_Implementing_Microsoft_DevOps_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-400" />&nbsp;
   <img src="https://img.shields.io/badge/SC--300-Microsoft_Identity_and_Access_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="SC-300" />
 </p>
 
