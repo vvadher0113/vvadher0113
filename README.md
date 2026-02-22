@@ -16,13 +16,14 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
 - ⚡ **Fun fact:** I love turning complex infrastructure challenges into clean, reusable Bicep modules.
 
 **Certifications:**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900" />
-  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104" />
-  <img src="https://img.shields.io/badge/AZ--305-Designing_Azure_Infrastructure_Solutions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-305" />
-  <img src="https://img.shields.io/badge/AZ--700-Azure_Network_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-700" />
-  <img src="https://img.shields.io/badge/AZ--400-DevOps_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400" />
-  <img src="https://img.shields.io/badge/SC--300-Identity_and_Access-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="SC-300" />
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900" />
+  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-104" />
+  <img src="https://img.shields.io/badge/AZ--305-Designing_Azure_Infrastructure_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-305" />
+  <img src="https://img.shields.io/badge/AZ--700-Designing_and_Implementing_Microsoft_Azure_Networking_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-700" />
+  <img src="https://img.shields.io/badge/AZ--400-Designing_and_Implementing_Microsoft_DevOps_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-400" />
+  <img src="https://img.shields.io/badge/SC--300-Microsoft_Identity_and_Access_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="SC-300" />
 </p>
 
 ---
@@ -52,26 +53,25 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
 
 ### GitHub Stats & Activity
 
+### GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvadher0113&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvadher0113&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vvadher0113&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvadher0113&layout=compact&theme=onedark&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvadher0113&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvadher0113&theme=onedark&hide_border=true" alt="Contribution Streak" />
 </p>
-
 ---
 
-### Featured Projects & Repositories
-Here are some repositories I maintain or contribute to (replace with your actual repo links once you create them):
+### Featured Projects
+Coming soon — I'm actively building public repos to showcase:
+- Secure AKS deployments with Bicep & GitOps
+- Reusable modules for Azure Networking & Security
+- Azure DevOps pipeline examples
 
-- **[azure-aks-reference](https://github.com/vvadher0113/azure-aks-reference)** — Production-ready AKS cluster templates using Bicep  
-- **[bicep-modules](https://github.com/vvadher0113/bicep-modules)** — Reusable Azure Bicep modules for networking, security, AKS, etc.  
-- **[azure-devops-pipelines](https://github.com/vvadher0113/azure-devops-pipelines)** — Collection of YAML pipelines for CI/CD best practices  
-- **[entra-id-governance](https://github.com/vvadher0113/entra-id-governance)** — Entra ID automation scripts and Conditional Access policies  
-
-Feel free to fork ⭐ or open issues — contributions welcome!
+Watch this space! First ones dropping soon. ⭐
 
 ---
 
