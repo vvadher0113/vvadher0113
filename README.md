@@ -45,6 +45,7 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logoColor=white" alt="Bicep" /> <!-- Bicep uses Azure color -->
+  <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logoColor=white" alt="IaC" /> <!-- Bicep uses Azure color -->
   <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Entra ID" />
 </p>
 
