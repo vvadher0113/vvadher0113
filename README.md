@@ -51,18 +51,6 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
 
 ---
 
-### GitHub Stats & Activity
-
-### GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvadher0113&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvadher0113&layout=compact&theme=onedark&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvadher0113&theme=onedark&hide_border=true" alt="Contribution Streak" />
-</p>
 ---
 
 ### Featured Projects
