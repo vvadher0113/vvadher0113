@@ -14,10 +14,8 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
 - 🌱 **Currently Exploring:** Advanced Zero Trust architectures with Microsoft Entra ID, AI/ML integration in Azure, and FinOps practices.
 - 💬 **Ask me about:** Azure Bicep & IaC best practices, Azure DevOps CI/CD pipelines, AKS networking & security, Microsoft 365/Entra ID migrations, Azure certifications roadmap.
 - ⚡ **Fun fact:** I love turning complex infrastructure challenges into clean, reusable Bicep modules.
-
 ---
 **Certifications:**
-
 <p align="center">
   <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900" />&nbsp;
   <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-104" />&nbsp;
@@ -26,7 +24,6 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
   <img src="https://img.shields.io/badge/AZ--400-Designing_and_Implementing_Microsoft_DevOps_Solutions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-400" />&nbsp;
   <img src="https://img.shields.io/badge/SC--300-Microsoft_Identity_and_Access_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="SC-300" />
 </p>
-
 ---
 
 ### My Skills
