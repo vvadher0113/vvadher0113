@@ -52,12 +52,12 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
 ### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vvadher0113&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvadher0113&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your GitHub Username]&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvadher0113&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
