@@ -15,6 +15,7 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
 - 💬 **Ask me about:** Azure Bicep & IaC best practices, Azure DevOps CI/CD pipelines, AKS networking & security, Microsoft 365/Entra ID migrations, Azure certifications roadmap.
 - ⚡ **Fun fact:** I love turning complex infrastructure challenges into clean, reusable Bicep modules.
 
+---
 **Certifications:**
 
 <p align="center">
