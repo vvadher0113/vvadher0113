@@ -33,7 +33,7 @@ I'm a passionate **Azure Cloud Engineer and Solutions Architect** with deep expe
 |-----------------------|--------------------------------------------------------------------------------------|
 | **Cloud Platform**    | Azure, Microsoft 365, Entra ID (formerly Azure AD)                                   |
 | **Containers & Orchestration** | Azure Kubernetes Service (AKS), Docker, Kubernetes                                  |
-| **Infrastructure as Code (IaC)** | Azure Bicep, ARM Templates, Terraform (familiar)                                    |
+| **Infrastructure as Code (IaC)** | Azure Bicep, ARM Templates, Terraform                                     |
 | **DevOps & CI/CD**    | Azure DevOps, GitHub Actions, YAML Pipelines, GitOps                                |
 | **Networking**        | Azure Virtual Network, NSG, Application Gateway, Load Balancer, Private Link, VPN/ExpressRoute |
 | **Security & Identity** | Microsoft Defender for Cloud, Entra ID, Conditional Access, Zero Trust, RBAC, Key Vault |
