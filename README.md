@@ -24,6 +24,7 @@ I build cloud platforms that engineering teams can run on: secure, governed, and
 | Project | What it shows |
 |---|---|
 | [secure-aks-baseline-terraform](https://github.com/vvadher0113/secure-aks-baseline-terraform) | Private, hardened AKS on Azure with Terraform and Azure Verified Modules: hub-spoke with Azure Firewall egress, BYO private DNS, private ACR and Key Vault, Workload Identity, Argo CD GitOps, KEDA, and OIDC-based GitHub Actions with Checkov, Trivy, and nightly drift detection |
+| [secure-container-apps-terraform](https://github.com/vvadher0113/secure-container-apps-terraform) | Private three-tier app on Azure Container Apps built from hand-written, tested Terraform modules: internal Container Apps behind App Gateway WAF v2, Entra-only PostgreSQL, private endpoints, managed identities with no secrets, and CI with terraform test, Checkov, and Trivy image scanning |
 
 A Bicep version of the same baseline is in progress.
 
